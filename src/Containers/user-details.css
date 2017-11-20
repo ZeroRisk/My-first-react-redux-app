@@ -1,0 +1,16 @@
+.user-container{
+    display: flex;
+    height: 200px;
+    direction: ltr;
+    font-weight: bold;
+    color: white;
+}
+.user-container>div {
+    width: 100px;
+    margin: 10px;
+    direction: ltr;
+    text-align: center;
+    align-items: left ;
+    line-height: 50px;
+    font-size: 30px;
+}
